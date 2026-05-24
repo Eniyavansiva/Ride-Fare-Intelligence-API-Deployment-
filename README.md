@@ -1,5 +1,6 @@
-### NYC Uber Fare Intelligence Dashboard
-Link: [here](https://nyc-uber-fare-intelligence-dashboard.netlify.app/)
+
+### NYC Uber Fare Intelligence Dashboard Link: [here](https://nyc-uber-fare-intelligence-dashboard.netlify.app/)
+
 ### Conclusion
 
 This project delivers an end-to-end NYC Uber fare prediction pipeline, moving from raw ride records to a deployable FastAPI model service. The final workflow is designed to be practical, interpretable, and leakage-safe, with feature engineering and deployment logic aligned so that predictions can be made from raw trip inputs.
